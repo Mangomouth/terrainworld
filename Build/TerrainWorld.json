@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TerrainWorld.data.unityweb",
+"asmCodeUrl": "TerrainWorld.asm.code.unityweb",
+"asmMemoryUrl": "TerrainWorld.asm.memory.unityweb",
+"asmFrameworkUrl": "TerrainWorld.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
